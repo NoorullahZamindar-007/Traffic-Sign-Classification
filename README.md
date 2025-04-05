@@ -4,7 +4,7 @@ Here's a clean and professional `README.md` file for your GitHub repository base
 
 ---
 
-```markdown
+markdown
 # 🚦 Traffic Sign Classification using CNN
 
 This project demonstrates how to build a **Traffic Sign Classification** system using **Convolutional Neural Networks (CNNs)** with **TensorFlow** and **Keras**. It’s a multi-class classification problem, designed to help machines recognize road signs — a crucial component in autonomous driving systems.
@@ -79,7 +79,7 @@ All layers use ReLU activation, except the final one which uses Softmax.
 
 ## 📂 Folder Structure
 
-```
+
 traffic_sign_dataset/
 │
 ├── Train/
@@ -90,7 +90,7 @@ traffic_sign_dataset/
 └── Test/
     ├── test_image_1.png
     ├── ...
-```
+
 
 
 
