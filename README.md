@@ -121,7 +121,7 @@ traffic_sign_dataset/
 
 ## 📬 Contact
 
-For feedback or collaboration, feel free to open an issue or contact the project owner.
+For feedback or collaboration, feel free to open an issue or contact us:
 Email: noorullahzamindar007@gmail.com
 W-No: +93797529779
 
