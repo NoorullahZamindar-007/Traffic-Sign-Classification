@@ -82,14 +82,23 @@ All layers use ReLU activation, except the final one which uses Softmax.
 
 traffic_sign_dataset/
 │
+
 ├── Train/
+
 │   ├── 0/
+
 │   ├── 1/
+
 │   └── ...  (up to 42)
+
 │
 └── Test/
+
     ├── test_image_1.png
-    ├── ...
+    
+    ├── 
+
+    
 
 
 
