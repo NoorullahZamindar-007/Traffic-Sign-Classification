@@ -1,6 +1,6 @@
 # Traffic-Sign-Classification
 Traffic Sign Classification Using Tensor Flow and Keras in CNN 
-Here's a clean and professional `README.md` file for your GitHub repository based on the documentation you provided for the **Traffic Sign Classification** project:llllll
+Here's a clean and professional `README.md` file for your GitHub repository based on the documentation you provided for the **Traffic Sign Classification** project:lllll
 
 ---
 
